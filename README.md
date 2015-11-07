@@ -10,6 +10,8 @@ As part of a main project at EPITA for Java learning, I had to create a Photosho
 The final result was really satisfying, hosting a lot of functionalities:  
 `More than 30 transformations (rotation, flip, crop, etc.) and filters (all hand made), fully managing layers, fully managing history, multi-project, all formats supported, operations within project or with others (copy, cut, paste etc.), managing colors and transparency (bacground, foreground), many tools (select area, fill, paint, erase, rubber, geometric forms, text areas, zoom, color picker, contrast, luminosity, color blancing, stamps, etc.), saving image or layers to all formats, printing, sharing image on Imgur, saving project.`
 
+### Screenshots
+
 ![alt tag](screenshots/1.png)
 
 ![alt tag](screenshots/2.png)
